@@ -1892,7 +1892,7 @@ body, html {
     color: #2B2D5C; }
   .form__btn--accent-2 {
     float: left;
-    width: 65%;
+    width: 100%;
     border: 2px solid #F2C200;
     color: #F2C200; }
 
